@@ -32,4 +32,4 @@ Year-on-Year Revenue Decline: Overall revenue is decreasing annually; a major cu
 Top Product Analysis: A Product which is not mentioned in the dataset represents our highest-selling item, indicating potential data entry or categorization issues.
 Market Trend Insight: Delhi NCR and Mumbai showed over 4x revenue growth from 2017 to 2018, but both markets are now declining consistently from 2019 to 2020, highlighting the need for targeted retention and sales strategies.
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Kartik565/SALES-INSIGHTS-DASHBOARD/blob/main/Sales_Inghts_dashboard.png)
